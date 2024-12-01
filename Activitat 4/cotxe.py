@@ -6,7 +6,7 @@ class Cotxe:
         self.__color = color
         self.__motor = motor
 
-    # Getters
+
     def get_marca(self):
         return self.__marca
 
@@ -22,7 +22,8 @@ class Cotxe:
     def get_motor(self):
         return self.__motor
 
-    # Setters
+    
+
     def set_marca(self, marca):
         self.__marca = marca
 

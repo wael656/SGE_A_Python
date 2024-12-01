@@ -1,14 +1,14 @@
 from cotxe import Cotxe
 from colibri import Colibri
 
-cotxe1 = Cotxe("Toyota", "Corolla", 2020, "Blau", "Híbrid")
-cotxe2 = Cotxe("Ford", "Focus", 2018, "Negre", "Diesel")
-cotxe3 = Cotxe("Tesla", "Model S", 2022, "Vermell", "Elèctric")
+cotxe1 = Cotxe("Seat", "Ibiza", 2020, "Blau", "Híbrid")
+cotxe2 = Cotxe("Ford", "Fiesta", 2016, "Negre", "Diesel")
+cotxe3 = Cotxe("Tesla", "Model 3", 2022, "Blanc", "Elèctric")
 
 
 colibri1 = Colibri("Rubí", "Verd", 25, "Petit", 3)
 colibri2 = Colibri("Anna", "Blau", 30, "Medià", 2)
-colibri3 = Colibri("Jacobí", "Groc", 20, "Petit", 5)
+colibri3 = Colibri("Jacobí", "Groc", 20, "Gran", 5)
 
 
 print("Informació del cotxe 1:")
